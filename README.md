@@ -2,7 +2,7 @@
 
 1. In the below elements which of them are values or an expression? eg:- values can be integer or string and expressions will be mathematical operators.
 
--87.8 
+   -87.8 
 
 2. What is the difference between string and variable?
 
