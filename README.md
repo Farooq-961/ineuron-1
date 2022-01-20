@@ -32,8 +32,9 @@ bacon + 1
 
 7. What should the values of the following two terms be?
 
-'spam' + 'spamspam'  ---> 'spamspamspam'
-'spam' * 3  ---->'spamspamspam'(spam is multiplied by 3 )
+ 'spam' + 'spamspam'  ---> 'spamspamspam'
+
+ 'spam' * 3  ---->'spamspamspam'(spam is multiplied by 3 )
 
 8. Why is eggs a valid variable name while 100 is invalid?
   From Python identifier rules any variable name should start with _ or __ or alphabets 
