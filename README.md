@@ -28,10 +28,10 @@
 6. After running the following code, what does the variable bacon contain?
 bacon = 22
 bacon + 1
-
-After running code the variable bacon contains 23
+   After running code the variable bacon contains 23
 
 7. What should the values of the following two terms be?
+
 'spam' + 'spamspam'  ---> 'spamspamspam'
 'spam' * 3  ---->'spamspamspam'(spam is multiplied by 3 )
 
@@ -42,9 +42,12 @@ After running code the variable bacon contains 23
 9. What three functions can be used to get the integer, floating-point number, or string version of a value?
    
    int() --> can be used to get integer
+   
    float() --> can be used to floating point number
+   
    str() --> can be used to get string values
    
 10. Why does this expression cause an error? How can you fix it?
 'I have eaten ' + 99 + ' burritos.'
+
  We can concate only strings but intergers therefore it returns error "TypeError: can only concatenate str (not "int") to str"
